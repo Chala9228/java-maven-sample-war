@@ -3,7 +3,7 @@
     <title>Hello App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Hello Mr Yugesh</h1>
+<h1>Mr Pramod ..Welcome to to CI/CD</h1>
 
 
 </body>
